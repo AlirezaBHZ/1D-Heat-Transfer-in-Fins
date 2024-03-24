@@ -5,16 +5,16 @@
 
   
 ## 🧬 Input variables to define the problem:  
-L: Length of the fin (in meters)  
-D: diameter of the fin (in meters)  
-Nx: Number of nodes along the rod  
+`L`: Length of the fin (in meters)  
+`D`: diameter of the fin (in meters)  
+`Nx`: Number of nodes along the rod  
 
-thermal_conductivity: Thermal conductivity for steel (in W/m·K)  
-convection_coef: Convection Coefficient (in W/m^2.K)  
+`thermal_conductivity`: Thermal conductivity for steel (in W/m·K)  
+`convection_coef`: Convection Coefficient (in W/m^2.K)  
 
-T_env: Environment temperature (in K)  
-T_base: Base temperature (in K)  
-T_tip: Tip temperature (in K) (for Dirichlet B.C only)  
+`T_env`: Environment temperature (in K)  
+`T_base`: Base temperature (in K)  
+`T_tip`: Tip temperature (in K) (for Dirichlet B.C only)  
 
     
 ## 🤖 Usage  
